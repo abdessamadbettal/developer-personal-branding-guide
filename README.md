@@ -11,14 +11,25 @@ Your brand is what people say about you when you are not in the room. In the dig
 
 ## 📑 Table of Contents
 
-- [The Personal Branding Funnel](#-the-personal-branding-funnel)
-- [Phase 1: The Digital Handshake](#1%EF%B8%8F%E2%83%A3-phase-1-the-digital-handshake)
-- [Phase 2: Proof of Work](#2%EF%B8%8F%E2%83%A3-phase-2-proof-of-work)
-- [Phase 3: The Knowledge Megaphone](#3%EF%B8%8F%E2%83%A3-phase-3-the-knowledge-megaphone)
-- [Phase 4: Community & Ecosystem](#4%EF%B8%8F%E2%83%A3-phase-4-community--ecosystem)
-- [Metrics that Actually Matter](#-metrics-that-actually-matter)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [🧲 Developer Personal Branding Guide](#-developer-personal-branding-guide)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🌪️ The Personal Branding Funnel](#️-the-personal-branding-funnel)
+  - [1️⃣ Phase 1: The Digital Handshake](#1️⃣-phase-1-the-digital-handshake)
+    - [The GitHub Profile](#the-github-profile)
+    - [The LinkedIn Optimization](#the-linkedin-optimization)
+  - [2️⃣ Phase 2: Proof of Work](#2️⃣-phase-2-proof-of-work)
+    - [Building a High-Impact Portfolio](#building-a-high-impact-portfolio)
+    - [The "Weekend Project" Strategy](#the-weekend-project-strategy)
+  - [3️⃣ Phase 3: The Knowledge Megaphone](#3️⃣-phase-3-the-knowledge-megaphone)
+    - [Technical Writing (Blogging)](#technical-writing-blogging)
+    - [Public Speaking \& Talks](#public-speaking--talks)
+  - [4️⃣ Phase 4: Community \& Ecosystem](#4️⃣-phase-4-community--ecosystem)
+    - [Authentic Networking on X (Twitter) \& LinkedIn](#authentic-networking-on-x-twitter--linkedin)
+    - [Open Source Citizenship](#open-source-citizenship)
+  - [📊 Metrics that Actually Matter](#-metrics-that-actually-matter)
+  - [🔗 See Also](#-see-also)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
 
 ---
 
@@ -68,6 +79,8 @@ Your personal website is the only piece of digital real estate you truly own.
 ### The "Weekend Project" Strategy
 Build tools that solve your own problems. If you are learning Docker, don't just write a "hello world" container. Build a containerized web scraper that tracks something you care about, document the struggle, and open-source it.
 
+> 🛠️ **Tools that support this phase:** a free, watermark-free cv builder ([Cviya](https://cviya.com)), a free digital business card maker ([CarteVisite.io](https://cartevisite.io)), and clean code screenshots for your "build in public" posts ([Codeshot.io](https://codeshot.io))
+
 ---
 
 ## 3️⃣ Phase 3: The Knowledge Megaphone
@@ -112,6 +125,11 @@ When building your brand, it is easy to get distracted by the wrong numbers.
 | Total page views on a blog post | Inbound messages from technical recruiters |
 | Likes on a generic LinkedIn post | Pull Requests merged into significant repositories |
 | Number of connections | Coffee chats scheduled with engineers you respect |
+
+---
+
+## 🔗 See Also
+* [Awesome Design & Productivity Tools](https://github.com/abdessamadbettal/awesome-design-productivity) — Curated free tools for career, design, and portfolio building.
 
 ---
 
